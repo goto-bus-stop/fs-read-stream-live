@@ -1,7 +1,7 @@
 {
   "name": "fs-read-stream-live",
   "description": "fs.createReadStream but it waits for new writes instead of ending",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/goto-bus-stop/fs-read-stream-live/issues"
